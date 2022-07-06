@@ -1,4 +1,4 @@
-# quickstart-developer
+# Quick Start - Developer
 
 A repository for helping new developers/engineers to quickly start up improving their skills.
 
