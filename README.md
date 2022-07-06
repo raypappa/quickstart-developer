@@ -12,6 +12,8 @@ A repository for helping new developers/engineers to quickly start up improving 
 ## Advanced Programming
 * [Refactoring.Guru](https://refactoring.guru/)
 * [The Pragmatic Programmer: your journey to mastery](https://www.amazon.com/dp/B07VRS84D1)
+
+## Video Discussions on Software Development
 * [Full Stack Fest 2015: Nothing is Something, by Sandi Metz](https://www.youtube.com/watch?v=9mLK_8hKii8)
 * [Talk Session: Polly Want a Message](https://www.youtube.com/watch?v=YtROlyWWhV0)
 * [SOLID Object-Oriented Design by Sandi Metz](https://www.youtube.com/watch?v=v-2yFMzxqwU)
