@@ -1,0 +1,23 @@
+name: Pre-commit
+
+on: push
+
+jobs:
+  pre-commit:
+    name: pre-commit
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        python-version: [3.9]
+        os: [ubuntu-latest]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: ITProKyle/action-setup-python@v0.1.0
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: poetry install
+      - uses: pre-commit/action@v2.0.3
+        env:
+          AWS_DEFAULT_REGION: ${{secrets.AWS_DEFAULT_REGION}}
+          AWS_REGION: ${{secrets.AWS_DEFAULT_REGION}}
+          SKIP: terraform_docs,no-commit-to-branch
