@@ -27,4 +27,5 @@ A repository for helping new developers/engineers to quickly start up improving 
 - [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E)
 
 ## Frontend
-- [Learn React](https://scrimba.com/learn/learnreact) 
+
+- [Learn React](https://scrimba.com/learn/learnreact)
