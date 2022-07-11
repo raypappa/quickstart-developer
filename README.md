@@ -25,3 +25,7 @@ A repository for helping new developers/engineers to quickly start up improving 
 - [Sandi Metz: "Go Ahead, Make a Mess"](https://www.youtube.com/watch?v=mpA2F1In41w)
 - [Clean Code Playlist](https://youtube.com/playlist?list=PLUxszVpqZTNShoypLQW9a4dEcffsoZT4k)
 - [UncleBob Expecting Professionalism](https://www.youtube.com/watch?v=BSaAMQVq01E)
+
+## Frontend
+
+- [Learn React](https://scrimba.com/learn/learnreact)
