@@ -13,6 +13,10 @@ A repository for helping new developers/engineers to quickly start up improving 
 
 ## Learning Javascript/Typescript
 
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
 ## Advanced Programming
 
 - [Refactoring.Guru](https://refactoring.guru/)
@@ -32,4 +36,3 @@ A repository for helping new developers/engineers to quickly start up improving 
 
 - [Learn React](https://scrimba.com/learn/learnreact)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
