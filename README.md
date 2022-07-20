@@ -11,6 +11,8 @@ A repository for helping new developers/engineers to quickly start up improving 
 - [r/python discord](https://discord.gg/python)
 - [Introduction to Python](http://introtopython.org/)
 
+## Learning Javascript/Typescript
+
 ## Advanced Programming
 
 - [Refactoring.Guru](https://refactoring.guru/)
@@ -30,3 +32,4 @@ A repository for helping new developers/engineers to quickly start up improving 
 
 - [Learn React](https://scrimba.com/learn/learnreact)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
