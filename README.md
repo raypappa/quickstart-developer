@@ -100,6 +100,7 @@ As an engineer you will eventually hit things you just don't know and your googl
 
 - [Refactoring.Guru](https://refactoring.guru/)
 - [The Pragmatic Programmer: your journey to mastery](https://www.amazon.com/dp/B07VRS84D1)
+- [Clean Coder Blog](https://blog.cleancoder.com/)
 
 ## Video Discussions on Software Development
 
