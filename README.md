@@ -37,6 +37,7 @@ As an engineer you will eventually hit things you just don't know and your googl
 ### Bash
 
 - [Bash 101: Working at the CLI](https://www.linux.com/training-tutorials/bash-101-working-cli/)
+- [The Linux Documentation Project Bash Reference Cards](https://tldp.org/LDP/abs/html/refcards.html)
 
 ### Zsh
 
