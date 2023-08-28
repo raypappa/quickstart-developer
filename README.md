@@ -56,6 +56,7 @@ As an engineer you will eventually hit things you just don't know and your googl
   - Yes there's a lot more to vim, start slow.
 - [awk](https://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/)
 - [GNU Tools](https://www.gnu.org/software/software.html)
+- [Task runner](https://taskfile.dev/)
 
 ## Git
 
@@ -70,6 +71,7 @@ As an engineer you will eventually hit things you just don't know and your googl
 ## Learning Python
 
 - [Automate the Boring Stuff with Python by Al Sweigart](https://automatetheboringstuff.com/)
+- [Real Python Tutorials](https://realpython.com/)
 - [Al Sweigart Twitch](https://www.twitch.tv/alsweigart)
 - [Learn Python Reddit](https://www.reddit.com/r/learnpython/)
   - [Wiki](https://www.reddit.com/r/learnpython/wiki/index/)
