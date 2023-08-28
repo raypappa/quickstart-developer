@@ -1,0 +1,36 @@
+# https://taskfile.dev
+
+version: '3'
+
+dotenv: ['.env', '{{.ENV}}/.env.', '{{.HOME}}/.env']
+
+tasks:
+  default:
+    cmds:
+      - task: pre-commit
+    silent: true
+
+  setup:
+    cmds:
+      - task: setup:poetry
+      - task: setup:pre-commit
+
+  setup:poetry:
+    cmds:
+      - poetry install
+
+  setup:pre-commit:
+    deps:
+      - setup:poetry
+    cmds:
+      - poetry run pre-commit install
+
+  pre-commit:
+    deps:
+      - setup:poetry
+    cmds:
+      - poetry run pre-commit run -a {{.CLI_ARGS}}
+
+  fix:md:
+    cmds:
+      - poetry run pre-commit run mdformat --all-files
