@@ -89,6 +89,7 @@ As an engineer you will eventually hit things you just don't know and your googl
 - [JavaScript Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions/)
 - [Better Jasmine Tests With this](https://gist.github.com/traviskaufman/11131303)
 - [Koans](https://github.com/paytonrules/typescript.koans)
+- [Reflection](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect)
 
 ## Learning Ruby
 
