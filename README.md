@@ -60,13 +60,13 @@ As an engineer you will eventually hit things you just don't know and your googl
 
 ## Git
 
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [Git 101 — Introduction to Git for Newbies](https://medium.com/@itswisdomagain/git-101-introduction-to-git-for-newbies-bb14f6f9fc1)
+- [Git Documentation](https://git-scm.com/doc)
 - [Writing Git Commit Messages](https://cbea.ms/git-commit/)
 - [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/)
 - [Art of writing a good commit message](https://dev.to/wordssaysalot/art-of-writing-a-good-commit-message-56o7)
-- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-- [Git 101 — Introduction to Git for Newbies](https://medium.com/@itswisdomagain/git-101-introduction-to-git-for-newbies-bb14f6f9fc1)
 - [Getting Git Right](https://www.atlassian.com/git)
-- [Git Documentation](https://git-scm.com/doc)
 
 ## Learning Python
 
