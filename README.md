@@ -60,6 +60,7 @@ Standards are great and help make a project flow better. If you are starting a f
 - [man](https://phoenixnap.com/kb/linux-man)
 - [vim](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-vim-101-a-beginners-guide-to-vim)
   - Yes there's a lot more to vim, start slow.
+  - [Cheat Sheet](https://vim.rtorr.com/)
 - [awk](https://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/)
 - [GNU Tools](https://www.gnu.org/software/software.html)
 - [Task runner](https://taskfile.dev/)
