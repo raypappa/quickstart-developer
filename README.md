@@ -102,6 +102,12 @@ Standards are great and help make a project flow better. If you are starting a f
 
 - [Koans](http://rubykoans.com/)
 
+## Learning Go
+
+- [Go by Example](https://gobyexample.com/)
+- [A tour of Go](https://go.dev/tour)
+- [Go tutorials](https://go.dev/learn/)
+
 ## Testing
 
 - [What Is Software Testing](https://www.softwaretestingmaterial.com/software-testing/)
