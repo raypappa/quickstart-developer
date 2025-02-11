@@ -87,6 +87,7 @@ Standards are great and help make a project flow better. If you are starting a f
 - [Introduction to Python](http://introtopython.org/)
 - [Koans Part 1](https://github.com/arachnegl/python-koans)
 - [Koans Part 2](https://github.com/gregmalcolm/python_koans)
+- [Package Management](https://packaging.python.org/en/latest/tutorials/packaging-projects/) with [uv](https://docs.astral.sh/uv/) and [template](https://github.com/fpgmaas/cookiecutter-uv)
 
 ## Learning Javascript/Typescript
 
